@@ -1,0 +1,2 @@
+# AccNetPhylA
+This Perl script AccNetPhylA (Accessory Constellation Network with Phylogenetic Analysis) takes up most of the analysis of AccNET (Accessory Constellation Network) (Val F. Lanza et al., 2016) by replacing the clustering tool kClust (Hauser et al., 2013) with CD-HIT (Weizhong Li et al., 2001) for analysis with nucleotide and protein sequences. "AccNET is a comparative genomic tool for accessory genome analysis using bipartite networks. The software has been designed to be compatible with most of the Network Analysis software (i.e. Cytoscape, Gephi or R)."
